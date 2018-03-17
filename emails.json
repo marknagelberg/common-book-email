@@ -1,0 +1,4 @@
+{
+    "sender": "Enter in the email that will be sending the commonplace book email",
+    "receivers":["Enter in the list of emails that will be recipients of the email"]
+}
